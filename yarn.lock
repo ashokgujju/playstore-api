@@ -32,9 +32,9 @@ acorn-jsx@^5.0.0:
   integrity sha512-tMUqwBWfLFbJbizRmEcWSLw6HnFzfdJs2sOJEOwwtVPMoH/0Ay+E703oZz78VSXZiiDcZrQ5XKjPIUQixhmgVw==
 
 acorn@^6.0.7:
-  version "6.4.0"
-  resolved "https://registry.yarnpkg.com/acorn/-/acorn-6.4.0.tgz#b659d2ffbafa24baf5db1cdbb2c94a983ecd2784"
-  integrity sha512-gac8OEcQ2Li1dxIEWGZzsp2BitJxwkwcOm0zHAJLcPJaVvm58FRnk6RkuLRpU1EujipU2ZFODv2P9DLMfnV8mw==
+  version "6.4.2"
+  resolved "https://registry.yarnpkg.com/acorn/-/acorn-6.4.2.tgz#35866fd710528e92de10cf06016498e47e39e1e6"
+  integrity sha512-XtGIhXwF8YM8bJhGxG5kXgjkEuNGLTkoYqVE+KMR+aspr4KGYmKYg7yUe3KghyQ9yheNwLnjmzh/7+gfDBmHCQ==
 
 ajv@^6.10.2, ajv@^6.5.5, ajv@^6.9.1:
   version "6.10.2"
@@ -771,10 +771,10 @@ globals@^11.7.0:
   resolved "https://registry.yarnpkg.com/globals/-/globals-11.12.0.tgz#ab8795338868a0babd8525758018c2a7eb95c42e"
   integrity sha512-WOBp/EEGUiIsJSp7wcv/y6MO+lV9UoncWqxuFfm8eBwzWNgyfBd6Gz+IeKQ9jCmyhoH99g15M3T+QaVHFjizVA==
 
-google-play-scraper@^7.1.2:
-  version "7.1.2"
-  resolved "https://registry.yarnpkg.com/google-play-scraper/-/google-play-scraper-7.1.2.tgz#cee5b483cd9f917e136d20ef60271f5bfd72d220"
-  integrity sha512-qEJL0ruwumOZvqlz/d0PEVNMP9J07RxoE74IQnncfkPkD8Fbagndyk/1d1KZ5JKwm9AYkYQPEoPP5K0OuRMwkQ==
+google-play-scraper@^8.0.2:
+  version "8.0.2"
+  resolved "https://registry.yarnpkg.com/google-play-scraper/-/google-play-scraper-8.0.2.tgz#ea1b2a07affeb6d99d875dd9471a891fdd2eba5f"
+  integrity sha512-fdc163GNyzx7Ygz8TSUwWM0hOsxgNYXRMWPZ9OnzwOLgKikUegAiCBICJzdqFdhnCKlx0bIxlghAT1eAo9/61w==
   dependencies:
     cheerio "^0.22.0"
     debug "^2.2.0"
