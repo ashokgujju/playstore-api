@@ -10,6 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
-    "google-play-scraper": "^7.1.2"
+    "google-play-scraper": "^8.0.2"
   }
 }
